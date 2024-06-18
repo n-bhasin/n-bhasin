@@ -1,16 +1,19 @@
-### Hi there 👋
+# Bhasin Neeraj - Hi there 👋
 
-<!--
-**n-bhasin/n-bhasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+I am a passionate Fullstack Blockchain Developer with a focus on transforming visionary business goals into reality through cutting-edge technology. My expertise lies in the intersection of web development and blockchain, helping businesses leverage modern technologies to innovate and grow.
 
-Here are some ideas to get you started:
+### 🌟 Tech Stack
+- **Programming**: JavaScript (ES6), Node.js, Typescript, REST APIs, Solidity, web3.js, GraphQL
+- **Frontend**: React.js, Next.js, React-Native
+- **Blockchain**: Ethereum, Solana
+- **Cloud**: AWS (Amazon Web Services)
+- **Others**: PostgreSQL, MongoDB, MySQL, Docker, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Learn More
+Visit [Softbytes.ca](https://softbytes.ca) to discover how our innovative software solutions can help transform your business with state-of-the-art technology.
+
+### 📫 Get in Touch
+Feel free to reach out to me for collaboration or just to connect:
+- **Email**: nkbhasin28@gmail.com
+- **LinkedIn**: [Bhasin Neeraj](https://www.linkedin.com/in/bhasineeraj)
